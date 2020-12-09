@@ -1,4 +1,4 @@
-# rps_python
+# Rock-Paper-Scissors Game in Python
 
 One of my first Python programs I made in early 2019!
 
